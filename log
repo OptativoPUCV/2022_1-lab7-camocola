@@ -33,3 +33,9 @@ Sun, May  8, 2022 11:51:59 PM:
  1 file changed, 25 insertions(+), 1 deletion(-)
  tests:  0|2
 8305327
+Sun, May  8, 2022 11:58:09 PM: 
+ heap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  7|1
+total_score: 45/70
+491c99b
