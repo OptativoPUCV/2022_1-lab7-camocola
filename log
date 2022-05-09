@@ -28,3 +28,8 @@ Sun, May  8, 2022 11:21:06 PM:
  tests:  2|2
 total_score: 20/70
 8a5fa6a
+Sun, May  8, 2022 11:51:59 PM: 
+ heap.c | 26 +++++++++++++++++++++++++-
+ 1 file changed, 25 insertions(+), 1 deletion(-)
+ tests:  0|2
+8305327
