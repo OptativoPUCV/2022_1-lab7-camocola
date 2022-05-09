@@ -56,7 +56,8 @@ void heap_push(Heap* pq, void* data, int priority){
 
 
 void heap_pop(Heap* pq){
-
+   //profe, no caché que era recuperativo, no necesito la nota, lo dejé hasta ahí nomás
+   //vi lo del recuperativo en el ptt, si no es así me da más tiempo?
 }
 
 Heap* createHeap(){
